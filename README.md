@@ -1,4 +1,4 @@
-# Sign Language Digit Classification with Deep Learning
+# Sign Language Digit Classification with Transfer Learning
 
 This project focuses on classifying hand gestures representing digits (0–9) using deep learning models implemented in **PyTorch**. It utilizes the **Sign Language Digits Dataset**, which contains RGB images of hand signs corresponding to digits 0 through 9.
 
